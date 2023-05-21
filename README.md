@@ -119,4 +119,4 @@ Feel free to customize this README file according to your project's specific det
 
 Project Author
 
-This project was developed by [Adonija ZIO].
+This project was developed by **Adonija ZIO**.
