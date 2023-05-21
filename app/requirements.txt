@@ -1,4 +1,5 @@
+streamlit==1.22.0
+opencv-python
 tensorflow
 scikit-learn
-opencv-python==4.7.0.72
 numpy==1.23.5
