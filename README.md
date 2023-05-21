@@ -44,6 +44,9 @@ The model has been deployed using Streamlit Cloud, a platform for hosting and sh
 
 
 ![App Interface](app-interface.png)
+
+
+
 ![App Example](example.png)
 
 To run the app locally, you can follow these steps:
