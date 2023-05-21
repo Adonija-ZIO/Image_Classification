@@ -6,9 +6,9 @@ from tensorflow import keras
 import pickle
 
 # Load the pre-trained model
-model = keras.models.load_model('optimal_model.h5')
+model = keras.models.load_model("./optimal_model.h5")
 # Load the label encoder
-label_encoder = pickle.load(open('label_encoder.pkl', 'rb'))
+label_encoder = pickle.load(open("./label_encoder.pkl", "rb"))
 num_classes = len(label_encoder.classes_)  # Change this to the number of output classes in your model
 
 def dog_class_prediction(image):
