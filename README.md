@@ -20,7 +20,7 @@ The goal of this project is to classify dog images into different categories. We
 
 ## Dataset
 
-To train the model, we used [Standford dog dataset(url)](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar) containing dog images of 120 different breeds. This dataset was collected from multiple sources and meticulously labeled. To ensure the effectiveness of the model, we split the images into training and validation sets for both model training and evaluation purposes.
+To train the model, we used [Standford dog dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar) containing dog images of 120 different breeds. This dataset was collected from multiple sources and meticulously labeled. To ensure the effectiveness of the model, we split the images into training and validation sets for both model training and evaluation purposes.
 
 In addition to using the dataset, we employed data augmentation techniques. Data augmentation involves applying various transformations to the existing images to expand the training dataset and improve the model's generalization ability. These transformations may include random rotations, translations, flips, and changes in brightness and contrast.
 
