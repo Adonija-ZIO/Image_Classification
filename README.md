@@ -42,6 +42,10 @@ To test the deployed model, you can access it through the following link: [Dog B
 
 The model has been deployed using Streamlit Cloud, a platform for hosting and sharing Streamlit apps. With the deployed app, you can upload images of dogs and obtain predictions for their respective categories.
 
+
+![App Interface](app-interface.png)
+![App Example](example.png)
+
 To run the app locally, you can follow these steps:
 
 1. Clone the repository to your local machine:
