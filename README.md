@@ -122,7 +122,6 @@ Contact
 
 If you have any questions or inquiries about this project, you can reach us at [email](adonijafirst@yahoo.fr)
 
-Feel free to customize this README file according to your project's specific details and requirements. Good luck with your dog breeds classification project!
 
 Project Author
 
